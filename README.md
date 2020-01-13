@@ -1,4 +1,4 @@
-# @svayam-ui/plugins-template 🔌💡
+# @svayam-chart 🔌💡
 
 
 ## Demo (Storybook)
